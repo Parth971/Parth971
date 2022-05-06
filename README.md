@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**Parth971/Parth971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Parth, :grinning:
+- I am currently working as <strong>Python Web Developer at @Inexture Solutions LLP </strong> as Trainee.
+- I am looking for freelance collaboraters. 
+- I have knowledge of
+  - Python Web Frameworks: Django, Flask
+  - Database: MySQL, PostgressSQL, SQLite, Firebase
+  - Front-End: HTML, CSS with Bootstrap(3 and 5), JS(jQuery), ReactJs
+  - Familiar with Apache, WSGI and deployment on VPS server.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Reach me via
+- Email: desaiparth971@gmail.com
+- LinkdIn: linkedin.com/in/parth-desai-31b627169/
