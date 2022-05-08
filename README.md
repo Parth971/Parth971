@@ -1,10 +1,10 @@
 
 ## Hi, I'm Parth, :grinning:
 - I am currently working as <strong>Python Web Developer at @Inexture Solutions LLP </strong> as Trainee.
-- I am looking for freelance collaboraters. 
+- I am looking for freelance collaborators. 
 - I have knowledge of
   - Python Web Frameworks: Django, Flask
-  - Database: MySQL, PostgressSQL, SQLite, Firebase
+  - Database: MySQL, PostgreSQL, SQLite, Firebase
   - Front-End: HTML, CSS with Bootstrap(3 and 5), JS(jQuery), ReactJs
   - Familiar with Apache, WSGI and deployment on VPS server.
 
