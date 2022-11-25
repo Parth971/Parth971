@@ -1,6 +1,6 @@
 
 ## Hi, I'm Parth, :grinning:
-- I am currently working as <strong>Python Web Developer at @Inexture Solutions LLP </strong> as Trainee.
+- I am currently working as <strong>Python Developer at @Inexture Solutions LLP </strong>
 - I am looking for freelance collaborators. 
 - I have knowledge of
   - Python Web Frameworks: Django, Flask
