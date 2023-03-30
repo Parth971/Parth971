@@ -10,6 +10,7 @@
   - AWS: Lambda functions, Dynamodb, API Gateway, S3bucket
   - Message queue: Redis, RabbitMQ, Celary
   - Familiar with Apache, WSGI and deployment on VPS server.
+  - Elasticsearch
 
 ### Reach me via
 - Email: desaiparth971@gmail.com
