@@ -5,7 +5,7 @@
 - I have knowledge of
   - Python Web Frameworks: Django, Flask
   - Database: MySQL, PostgreSQL, SQLite, Firebase
-  - Front-End: HTML, CSS with Bootstrap(3 and 5), JS(jQuery), ReactJs
+  - Front-End: HTML, CSS with Bootstrap(3 and 5), JS(jQuery), Vuejs, ReactJs
   - Scraping: Beautiful soup, scrapy, and selenium
   - AWS: Lambda functions, Dynamodb, API Gateway, S3bucket
   - Message queue: Redis, RabbitMQ, Celary
