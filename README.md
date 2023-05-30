@@ -15,7 +15,7 @@
 
 ### Website
 
-http://parthdesai.in/
+https://parthdesai.in/
 
 ### Connect with me
 <p align="left">
