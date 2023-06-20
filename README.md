@@ -7,8 +7,9 @@
   - `Database`: MySQL, PostgreSQL, SQLite, Firebase
   - `Front-End`: HTML, CSS, Bootstrap, JS, jQuery, Vuejs, ReactJs
   - `Scraping Frameworks`: Beautiful soup, scrapy, and selenium
-  - `Deployment` : Heroku and Digital Ocean
-  - `AWS` : Lambda functions, Dynamodb, API Gateway, S3bucket, EC2
+  - `Deployment` : Heroku, Digital Ocean, AWS EC2, and GCP VM Instance
+  - `AWS` : Lambda functions, Dynamodb, API Gateway, S3bucket, EC2, EBS, RDS, and IAM
+  - `GCP` : IAM, BigQuery, Cloud Compute, and Google Cloud Storage. 
   - `Message queue`: Redis, RabbitMQ, Celery
   - `Server` : Familiar with Apache, Nginx and Gunicorn.
   - `Elasticsearch`
