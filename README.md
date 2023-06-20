@@ -3,7 +3,7 @@
 - Currently working as <strong>Python Developer at @Inexture Solutions LLP </strong>
 - Looking for freelance collaborators. 
 - Possess knowledge
-  - `Python Web Frameworks`: Django, Flask, FaskAPI
+  - `Python Web Frameworks`: Django, Flask, FastAPI
   - `Database`: MySQL, PostgreSQL, SQLite, Firebase
   - `Front-End`: HTML, CSS, Bootstrap, JS, jQuery, Vuejs, ReactJs
   - `Scraping Frameworks`: Beautiful soup, scrapy, and selenium
