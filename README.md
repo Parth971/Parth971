@@ -9,7 +9,7 @@
   - `Scraping Frameworks`: Beautiful soup, scrapy, and selenium
   - `Deployment` : Heroku and Digital Ocean
   - `AWS` : Lambda functions, Dynamodb, API Gateway, S3bucket, EC2
-  - `Message queue`: Redis, RabbitMQ, Celary
+  - `Message queue`: Redis, RabbitMQ, Celery
   - `Server` : Familiar with Apache, Nginx and Gunicorn.
   - `Elasticsearch`
 
