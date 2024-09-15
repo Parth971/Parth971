@@ -1,6 +1,8 @@
 
 ## Hi, I'm Parth :grinning:
-- Currently working as <strong>Python Developer at @Inexture Solutions LLP </strong>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&lines=Welcome+to+my+GitHub;I+like+to+extract+and+scrape+data;Love+to+develope+things)](https://git.io/typing-svg)
+
+- Currently working as <strong>Python Developer - Freelancer </strong>
 - Looking for freelance collaborators. 
 - Possess knowledge
   - `Python Web Frameworks`: Django, Flask, FastAPI
@@ -16,7 +18,7 @@
 
 ### Website
 
-https://parthdesai.in/
+https://parthdesai.in
 
 ### Connect with me
 <p align="left">
@@ -39,6 +41,5 @@ https://parthdesai.in/
 
 
 ### Github Stats 📈
-| ![Parth Desai GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Parth971&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth971) |
-| --- | --- |
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parth971&light&hide_border=true&line_height=27&width=20) | ![Gagan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Parth971&layout=compact&langs_count=8&hide_border=true) | 
+![Parth Desai GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Parth971&show_icons=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parth971&light&hide_border=true&line_height=27&width=20)
