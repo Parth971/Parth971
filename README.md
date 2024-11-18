@@ -16,20 +16,35 @@
   - `Server` : Familiar with Apache, Nginx and Gunicorn.
   - `Elasticsearch`
 
-### Website
+### Websites
 
 https://parthdesai.in
+<br>
+https://webvani.com
 
 ### Connect with me
 <p align="left">
+  <a href="https://webvani.com/about" target="blank">
+    <img align="center" src="https://webvani.com/assets/icons/logo.ico" alt="webvani.com" height="36" width="36" />
+  </a>
+  <a href="https://www.youtube.com/@Webvani" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="youtube-webvani" align="center" height="45" width="45">
+  </a>
   <a href="https://www.linkedin.com/in/parth-desai-31b627169/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/linked-in-alt.svg" alt="Parth971" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/Parth971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/hackerrank.svg" alt="kumarshanu1009" height="30" width="40" /></a>
-  <a href="https://leetcode.com/Parth971/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/leet-code.svg" alt="its-kumar" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/12535525/parth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="its-kumar" height="30" width="40" /></a>
-  <a href="mailto:desaiparth971@gmail.com" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" alt="its-kumar" height="30" width="40" /></a>
-
-
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin-parth-desai" height="35" width="35" />
+  </a>
+  <a href="https://www.hackerrank.com/Parth971" target="blank">
+    <img align="center" src="https://seeklogo.com/images/H/hackerrank-logo-179D7D2812-seeklogo.com.png" alt="hackerrank-Parth971" height="40" width="35" />
+  </a>
+  <a href="https://leetcode.com/Parth971/" target="blank">
+    <img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-leetcode-3d-icon-download-in-png-blend-fbx-gltf-file-formats--leet-code-programming-game-logos-and-brands-pack-icons-9325307.png" alt="leetcode-Parth971" height="40" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/12535525/parth" target="blank">
+    <img align="center" src="https://static-00.iconduck.com/assets.00/stack-overflow-icon-2048x2048-7ohycn5z.png" alt="stackoverflow-parth" height="36" width="36" />
+  </a>
+  <a href="mailto:desaiparth971@gmail.com" target="blank">
+    <img align="center" src="https://ouch-cdn2.icons8.com/Q_mKQhLvgHc4CpJslA6YAg1orkPp2LG3W6rdaEQZ1oo/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTYv/MzE3NWFhMzAtMmQw/Yi00MDgyLTlhZWMt/ZWUyZGNlYzQwYmM0/LnBuZw.png" alt="its-parth-desai" height="45" width="45" />
+  </a>
 </p>
 
 ### Python Frameworks
