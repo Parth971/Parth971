@@ -1,60 +1,106 @@
+# Welcome to My World! 🌍  
 
-## Hi, I'm Parth :grinning:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&lines=Welcome+to+my+GitHub;I+like+to+extract+and+scrape+data;Love+to+develope+things)](https://git.io/typing-svg)
+### 🙋 Who Am I?  
 
-- Currently working as <strong>Python Developer - Freelancer </strong>
-- Looking for freelance collaborators. 
-- Possess knowledge
-  - `Python Web Frameworks`: Django, Flask, FastAPI
-  - `Database`: MySQL, PostgreSQL, SQLite, Firebase
-  - `Front-End`: HTML, CSS, Bootstrap, JS, jQuery, Vuejs, ReactJs
-  - `Scraping Frameworks`: Beautiful soup, scrapy, and selenium
-  - `Deployment` : Heroku, Digital Ocean, AWS EC2, and GCP VM Instance
-  - `AWS` : Lambda functions, Dynamodb, API Gateway, S3bucket, EC2, EBS, RDS, and IAM
-  - `GCP` : IAM, BigQuery, Cloud Compute, and Google Cloud Storage. 
-  - `Message queue`: Redis, RabbitMQ, Celery
-  - `Server` : Familiar with Apache, Nginx and Gunicorn.
-  - `Elasticsearch`
+I’m _**Parth Desai**_, a passionate **Python Developer** and a **full-time freelancer** who loves to build, create, and automate. My personal journey is deeply rooted in technology and innovation. I’m also the proud **founder of WebVani**, where I channel my expertise into providing services and sharing knowledge with the world.
 
-### Websites
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=800&lines=Python+Developer;Web+Scraper;Automation+Expert;Founder+of+WebVani!)](https://git.io/typing-svg)
 
-https://parthdesai.in
-<br>
-https://webvani.com
+---
 
-### Connect with me
-<p align="left">
-  <a href="https://webvani.com/about" target="blank">
-    <img align="center" src="https://webvani.com/assets/icons/logo.ico" alt="webvani.com" height="36" width="36" />
+## 🧐 What is WebVani?  
+
+<div align="center">
+  <a href="https://youtu.be/WVeud4Bzf_g">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/58165487/393199540-ebad1a88-2d2e-4524-bc36-5b212ebc192a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241206T100335Z&X-Amz-Expires=300&X-Amz-Signature=e912812f0befdf1e971e3f9c923a866a77916064039922429970612b8d28d721&X-Amz-SignedHeaders=host" alt="Everything Is AWESOME" style="width:50%; height:80%">
   </a>
-  <a href="https://www.youtube.com/@Webvani" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="youtube-webvani" align="center" height="45" width="45">
-  </a>
-  <a href="https://www.linkedin.com/in/parth-desai-31b627169/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin-parth-desai" height="35" width="35" />
-  </a>
-  <a href="https://www.hackerrank.com/Parth971" target="blank">
-    <img align="center" src="https://seeklogo.com/images/H/hackerrank-logo-179D7D2812-seeklogo.com.png" alt="hackerrank-Parth971" height="40" width="35" />
-  </a>
-  <a href="https://leetcode.com/Parth971/" target="blank">
-    <img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-leetcode-3d-icon-download-in-png-blend-fbx-gltf-file-formats--leet-code-programming-game-logos-and-brands-pack-icons-9325307.png" alt="leetcode-Parth971" height="40" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/12535525/parth" target="blank">
-    <img align="center" src="https://static-00.iconduck.com/assets.00/stack-overflow-icon-2048x2048-7ohycn5z.png" alt="stackoverflow-parth" height="36" width="36" />
-  </a>
-  <a href="mailto:desaiparth971@gmail.com" target="blank">
-    <img align="center" src="https://ouch-cdn2.icons8.com/Q_mKQhLvgHc4CpJslA6YAg1orkPp2LG3W6rdaEQZ1oo/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTYv/MzE3NWFhMzAtMmQw/Yi00MDgyLTlhZWMt/ZWUyZGNlYzQwYmM0/LnBuZw.png" alt="its-parth-desai" height="45" width="45" />
-  </a>
-</p>
+</div>
 
-### Python Frameworks
+**WebVani** is more than just a service provider—it's a vision that grew out of my solo journey as a tech enthusiast. Here's the story:  
 
-  ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-  ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![fastapi](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-  ![dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
+### From Passion 🔥 to Vision 💡 
+- :mortar_board: Began with a **degree in Computer Science and Engineering**.  
+- :briefcase: Gained hands-on experience in **programming** and **web development** in the tech industry.  
+- :chart_with_upwards_trend: Transitioned into full-time freelancing to deliver cutting-edge **web** and **automation solutions**.  
+
+### What We Do at WebVani:  
+At WebVani, we specialize in building **powerful, efficient, and scalable solutions** tailored to client needs. Here's how we help:  
+1. **Web Development**: Creating dynamic, responsive, and feature-rich web applications that enhance user experiences.  
+2. **Web Scraping**: Extracting valuable data with robust, Python-powered scraping tools to automate collection and analysis.  
+3. **Automation**: Simplifying repetitive tasks with custom automation solutions that save time and boost productivity.  
+
+### :bookmark_tabs: Explore WebVani  
+WebVani also serves as a hub for knowledge sharing, offering:  
+- **Articles and Tutorials**: Practical tips, tricks, and insights for beginners and experts alike.  
+- **YouTube Content**: In-depth guides on **web development**, **automation**, and more!  
+
+💬 Let’s build your digital future together! Visit **[WebVani](https://webvani.com)** for more.  
+
+---
 
 
-### Github Stats 📈
-![Parth Desai GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Parth971&show_icons=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parth971&light&hide_border=true&line_height=27&width=20)
+## 🤝 Connect With Me
+
+<a href="https://parthdesai.in"><img src="https://img.shields.io/badge/Parth_Desai-blue.svg?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAALEAAAC0BAMAAAApytBFAAAAIGNIUk0AAHomAACAhAAA%2BgAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAPUExURUdwTP39%2Ffv7%2B%2Bjx9%2F%2F%2F%2F%2Br8GTEAAAAEdFJOUwBasDL%2BqjLEAAAAAWJLR0QEj2jZUQAAAAd0SU1FB%2BgMBg0xGXy2vbMAAAABb3JOVAHPoneaAAADJ0lEQVRo3u3b7XGDMAwGYBIyAG0ZwKEMQD4GAMf7z9Rw7Q8bLFmW5F5ztf7Se%2FrGmCCw0zS1atWq9W%2FqMLp9DcP5QyyfHFD2PBWSn%2FVZTHZWEhuVne1KyZLUCVlAp2S3FJOdKSY75ngQ5EcxmRmaIvNCU2RXTjbFZNacJsmsc0iTOcNBkzmzgybbYjJnoIkyZ6CjdRk28qwlP22FGQ3UQXwKabSq3PQ%2BrSoHoSdVevTkTlX257pRlY%2FF5OZX5LWpfrbVbzcdeXSRGt6mQvKKi58IegeVpP3FZedkDxujw0oSG5clzzEuUWcu3KZkdupjUubS97TMvOpHglywMWPcx1pSZE5nRoSzx6PtqXBeL9K%2Bk10HXeZHG6kcFgxNmwCc0Cryo5jsZPJ6hx2BY0Ykf%2F%2F9JTprrIL8rGvkYKcix66iWUeOxLZa8p6etOQdbdTkbS%2By6Mmbr2%2BrJ2%2Fvv5OevLk1GEU5fGKcFeUwtNWUj%2BhxVLZXVA77vilDPgepIvIdO4WwvLbeCTkYjpkm%2FzzmJOSGKC%2B3W%2Ftd0VAxufeOL4iMf9yY7H9iCx975MvBxaKaORjoSTMz9qJCmNmf0UY184kkczL7fzCrZj6QZM7bPv%2BR8QHKrIUCByYTZvanHSyzMnuyBWVW5p4iszKTZFbme7HMJFm8HqOb%2BfTamWH572YuN84vM59f8Ros9103gsmkmUnyH7sPOjAZnjnZb%2FhdwZyTOatHMqqZabK0F%2B1UM%2FckmZPZm866PX%2BwxtCAMiOzf1z32co%2FgbrPg%2F4wz5qZg8dBo5n55MudZmZ%2FMLD3G9mZ8f0Bksy9Ly%2FI%2FzWZcrgUNzdZhcr3QO705PB1Xe5mCUwOJkb2whgib14TZw4zIm%2FXOzOHGZY3g5y%2FSgjJuxXa7F4FkPdrKkZFvo47OH%2BDzk5uL%2B8Rl9G4BXcjeNmKscWAsJa%2BFqMjJMrZ548qc7Zu0WRGZJrM2m1GkjmRSTJvUx9F7krJrLGgyNwNjkmZvXU%2BJfP35KfkjgunZD6My6Lfa2CybNsrLFvhFjtQlv7gBpLFblyWbzVcK1wuHwaV3ZG1atWqVQurLyAERI9gUhVHAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDI0LTEyLTA2VDEzOjQ5OjExKzAwOjAwFKt%2FewAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyNC0xMi0wNlQxMzo0OToxMSswMDowMGX2x8cAAAAodEVYdGRhdGU6dGltZXN0YW1wADIwMjQtMTItMDZUMTM6NDk6MjUrMDA6MDBII8XoAAAAAElFTkSuQmCC&labelColor=%23232936&color=000000"></a>
+<a href="https://www.linkedin.com/in/parth971"><img src="https://img.shields.io/badge/parth971-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Parth971"><img src="https://img.shields.io/badge/Parth971-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.instagram.com/desaiparth_2000"><img src="https://img.shields.io/badge/desaiparth_2000-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://x.com/desaiparth971"><img src="https://img.shields.io/badge/desaiparth971-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+<a href="mailto:desaiparth971@gmail.com"><img src="https://img.shields.io/badge/desaiparth971-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.hackerrank.com/Parth971"><img src="https://img.shields.io/badge/-Parth971-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/12535525/parth"><img src="https://img.shields.io/badge/parth-orange?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<a href="https://leetcode.com/Parth971"><img src="https://img.shields.io/badge/-Parth971-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+
+<a href="https://webvani.com"><img src="https://img.shields.io/badge/Webvani-gray.svg?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAALsAAAC%2FAQMAAACczz8%2FAAAABlBMVEX%2F%2F%2F%2F%2F%2F%2F9VfPVsAAAAAnRSTlMC9P51mb8AAAL5SURBVHja7ZY9ltwgEITRU4CfHcgH8DPOHfgIXGGP4As4d4aO4pusjkLokJBAKywaNUWjIdjIyXSwi%2Baj1VX89Ix6xjPeHXMKj4FOx2OwpLSNwD4CaR0B%2F7D4CcII7I99nPEITGlUPQPp5Hf5527Vr5LmBFG8%2FBjI0mmtsg5hmUv2eg2vhO30Wi65dHodA90tYy05sxE8Xrol0CgJh11JJ4BpAKxL9VYAhwwj1iRxBgA2rtEhbBw9wC5gLNQG6RXA9wBqATYAzJobMEHUHewAsl5szW7yVgB4sRt3gEUHgFo1AIcEGEYBggBzQIY4fOZAhlg2m1aAth1kygC7QWvkO2BJrc7PADh75nqeAYpam%2F9i2ZHrGhCwM4SRARv0vAPAhpYANhYGGoA%2BsS3YGhuuz2Cd6Z5BuqcMYgXYmLkAFokjqTMIFeDYGwFUBzxslRlHlkacby0GqQILcOqf2EYGGMQC%2Fspe8oP9vfXdR2c1392vl1u%2FekVzlB1uWQfgY%2FcNMv4y2h6BpQLz9tICU%2B%2BjK37u3THL%2FiABGwrqM0C9qFNW9020zR3gZx59wUW9DG0FWHqUgISTfN2e9XXa6CUh%2B5NgpUFE9y9T1LzS4IA%2FAJq7ohGViToDR%2B9A2zQZ8NmG2gz2E7CzDiyXgQNqM4gVpBbYE3y9nKWVtwkZ13HXBJDBIOhciEEA2Cc0eXcCw%2BA4HyMyUDydPDQZluWmTaOvX6%2BaCfi8XZzhKWMiENQP1QBzrS4kISO%2FMweA5QxTqiODgS7VZcZWZcUGhAxY1iEzvGJZSWQsBKysbjIIZcTVAaKqskILdAaQha2dd1VleQGKSCfAQk2pCLxUAShueu13rqb%2B7WkOGwSwgWVhQ%2Ba8PKbKihLohC6PxnVkysvoAaie2xXfthr0sKTtuo8IR7Neff2dD7BBSBSdCwUhiioCOC%2B6Y8CkVfTTiLHowPef9rB%2BCzhESCOIgV4E9N5Dj2UlNaq%2Bvqs6FuUewyJmZHEaFVGf%2FqhnPON%2Fxj8kpQ2ll4LW7wAAAABJRU5ErkJggg%3D%3D&labelColor=%2320303D&color=000000"></a>
+<a href="https://www.linkedin.com/company/webvani"><img src="https://img.shields.io/badge/webvani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://x.com/WebvaniOfficial"><img src="https://img.shields.io/badge/WebvaniOfficial-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
+<a href="mailto:webvani.learn@gmail.com"><img src="https://img.shields.io/badge/webvani.learn-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:support@webvani.com"><img src="https://img.shields.io/badge/support@webvani-%2320303D?style=for-the-badge&logo=mailboxdotorg&logoColor=white"></a>
+<a href="https://www.youtube.com/@Webvani"><img src="https://img.shields.io/badge/Webvani-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+
+---
+
+## :hammer_and_wrench: I Know
+
+<a href="#"><img src="https://img.shields.io/badge/Web-Development-blue?style=for-the-badge"></a>
+<a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-049487?style=for-the-badge&logo=fastapi&logoColor=white"></a>
+<a href="https://flask.palletsprojects.com/en/stable"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+<a href="https://www.youtube.com/@Webvani"><img src="https://img.shields.io/badge/React_JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+<a href="https://www.youtube.com/@Webvani"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+
+<a href="#"><img src="https://img.shields.io/badge/Database-Management-blue?style=for-the-badge"></a>
+<a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+<a href="https://firebase.google.com"><img src="https://img.shields.io/badge/Firebase-F7C52A?style=for-the-badge&logo=firebase&logoColor=white"></a>
+
+<a href="#"><img src="https://img.shields.io/badge/Automation-Scraping-blue?style=for-the-badge"></a>
+<a href="https://www.selenium.dev"><img src="https://img.shields.io/badge/Selenium-01AE01?style=for-the-badge&logo=selenium&logoColor=white"></a>
+<a href="https://scrapy.org"><img src="https://img.shields.io/badge/Scrapy-000000?style=for-the-badge&logo=scrapy&logoColor=white"></a>
+
+<a href="#"><img src="https://img.shields.io/badge/Cloud-DevOps-blue?style=for-the-badge"></a>
+<a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
+<a href="https://cloud.google.com"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+<a href="https://www.heroku.com"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
+<a href="https://railway.app"><img src="https://img.shields.io/badge/railway-ffffff?&style=for-the-badge&logo=railway&logoColor=black"></a>
+
+<a href="#"><img src="https://img.shields.io/badge/Other-Tools-blue?style=for-the-badge"></a>
+<a href="https://redis.io"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"></a>
+<a href="https://www.rabbitmq.com"><img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"></a>
+<a href="https://www.fullstackpython.com/celery.html"><img src="https://img.shields.io/badge/celery-636363?&style=for-the-badge&logo=celery&logoColor=white"></a>
+<a href="https://www.elastic.co/elasticsearch"><img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"></a>
+<a href="https://core.telegram.org"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
+#### 🕵️ For more info, click [Me](https://webvani.com/about)
+
+---
+
+![Parth Desai GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Parth971&show_icons=true)  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parth971&light&hide_border=true&line_height=27&width=20)  
+
+---
+
+### Have a wonderful day!
+
+<a href="https://www.buymeacoffee.com/webvani"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
+
