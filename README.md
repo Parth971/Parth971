@@ -16,25 +16,15 @@ I’m _**Parth Desai**_, a passionate **Python Developer** and a **full-time fre
   </a>
 </div>
 
-**WebVani** is more than just a service provider—it's a vision that grew out of my solo journey as a tech enthusiast. Here's the story:  
+**WebVani** is where passion 🔥 meets vision 💡
 
-### From Passion 🔥 to Vision 💡 
-- :mortar_board: Began with a **degree in Computer Science and Engineering**.  
-- :briefcase: Gained hands-on experience in **programming** and **web development** in the tech industry.  
-- :chart_with_upwards_trend: Transitioned into full-time freelancing to deliver cutting-edge **web** and **automation solutions**.  
+From a solo tech journey to a growing hub of innovation, we deliver **web development**, **automation**, and **web scraping** solutions tailored to your needs.  
 
-### What We Do at WebVani:  
-At WebVani, we specialize in building **powerful, efficient, and scalable solutions** tailored to client needs. Here's how we help:  
-1. **Web Development**: Creating dynamic, responsive, and feature-rich web applications that enhance user experiences.  
-2. **Web Scraping**: Extracting valuable data with robust, Python-powered scraping tools to automate collection and analysis.  
-3. **Automation**: Simplifying repetitive tasks with custom automation solutions that save time and boost productivity.  
+✨ Whether you're here to streamline workflows, extract insights, or create impactful digital experiences, WebVani has you covered.  
 
-### :bookmark_tabs: Explore WebVani  
-WebVani also serves as a hub for knowledge sharing, offering:  
-- **Articles and Tutorials**: Practical tips, tricks, and insights for beginners and experts alike.  
-- **YouTube Content**: In-depth guides on **web development**, **automation**, and more!  
+🤓 Curious ? Dive into our story, tutorials, and services!
 
-💬 Let’s build your digital future together! Visit **[WebVani](https://webvani.com)** for more.  
+🌐 Visit **[WebVani](https://webvani.com)**. 
 
 ---
 
@@ -57,6 +47,13 @@ WebVani also serves as a hub for knowledge sharing, offering:
 <a href="mailto:webvani.learn@gmail.com"><img src="https://img.shields.io/badge/webvani.learn-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="mailto:support@webvani.com"><img src="https://img.shields.io/badge/support@webvani-%2320303D?style=for-the-badge&logo=mailboxdotorg&logoColor=white"></a>
 <a href="https://www.youtube.com/@Webvani"><img src="https://img.shields.io/badge/Webvani-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+
+## 📩 Hire Me
+
+<a href="https://www.upwork.com/freelancers/parth971"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"></a>
+<a href="https://www.fiverr.com/parth6969"><img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a>
+<a href="https://www.freelancer.com/u/desaiparth971"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"></a>
+<a href="https://contra.com/parth971"><img src="https://img.shields.io/badge/Contra-blue?style=for-the-badge&logo=data%3Aimage%2Fjpeg%3Bbase64%2C%2F9j%2F4AAQSkZJRgABAQAAAQABAAD%2F4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb%2F2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo%2BAjIqgtObDoKrarYqMyP%2FL2u71%2F%2F%2F%2Fm8H%2F%2F%2F%2F6%2F%2Bb9%2F%2Fj%2F2wBDASstLTw1PHZBQXb4pYyl%2BPj4%2BPj4%2BPj4%2BPj4%2BPj4%2BPj4%2BPj4%2BPj4%2BPj4%2BPj4%2BPj4%2BPj4%2BPj4%2BPj4%2BPj4%2BPj4%2BPj%2FwAARCAAqACkDASIAAhEBAxEB%2F8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUBAgQGA%2F%2FEAC0QAAICAAUBBgUFAAAAAAAAAAECAAMEBRESMUETFCE1UWEjQkVzkVJigZLR%2F8QAFAEBAAAAAAAAAAAAAAAAAAAAAP%2FEABQRAQAAAAAAAAAAAAAAAAAAAAD%2F2gAMAwEAAhEDEQA%2FAEskcw0jTKsuax1vuUhAdVB%2BY%2F5AoMAN9dW09o1Bfn5ukXkEE%2BE6J%2FOqvtEzHmuXMGOIoXVT4so6e8BPCTpIgNMHXtRbBgTc36t%2Bo%2FEYd8xY%2Bnt4funP1XWUvurdlPqDH2XZkMT8O3RbRwejQM7YjEHM0sOEYOKyAm7kes098xY%2Bnt%2FeD%2Bd1%2FZMnMMwGFXYmjWkcdF9zAw4xO0R7Hy81MBruDgD8RX%2FEvdfbc2612c%2B88oEyyOyOHU6Mp1BlYQHYxIfF1Yo8d3JI9xE9tr22s7nVmOpkanTn1lTyYEQhCB%2F%2F2Q%3D%3D&labelColor=000000&color=000000"></a>
 
 ---
 
