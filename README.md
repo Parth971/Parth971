@@ -12,7 +12,7 @@ I’m _**Parth Desai**_, a passionate **Python Developer** and a **full-time fre
 
 <div align="center">
   <a href="https://youtu.be/WVeud4Bzf_g" target="_blank">
-    <img src="https://private-user-images.githubusercontent.com/58165487/398404302-f105e380-43c3-42a6-a5c9-ce634c742c51.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU1NDA5MzUsIm5iZiI6MTczNTU0MDYzNSwicGF0aCI6Ii81ODE2NTQ4Ny8zOTg0MDQzMDItZjEwNWUzODAtNDNjMy00MmE2LWE1YzktY2U2MzRjNzQyYzUxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjMwVDA2MzcxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg4MGQzYmFiYjZkMGZiZGU2MjA2ZGQyMzRkZjNjZDQzNmU1NjI0ZjI0OGIzNDVmOTJhYjBjYWJiYjYzYmI4MzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LN22uYvad8xK90VHztimsTcC9gGd2316nlr8XPaLNrs" alt="Introducing Webvani" style="width:50%; height:80%">
+    <img src="https://i.ytimg.com/vi/WVeud4Bzf_g/hq720.jpg" alt="Introducing Webvani" style="width:50%; height:80%">
   </a>
 </div>
 
